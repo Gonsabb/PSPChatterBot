@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">El Chatea-Bot</string>
+    <string name="grabar">Grabar</string>
+    <string name="conver">Conversación</string>
+    <string name="contestar">Contestar</string>
+    <string name="resp">Ultima respuesta</string>
+    <string name="hablar">Hablar</string>
+    <string name="yo">Yo</string>
+    <string name="bot">Bot</string>
+    <string name="hilo">Último hilo de la conversación:</string>
+</resources>
